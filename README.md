@@ -27,7 +27,7 @@ A complete implementation of the classic Sokoban puzzle game in RISC-V assembly,
 
 1. Open **CPUlator RISC-V Simulator**: https://cpulator.01xz.net/?sys=rv32-spim
 
-2. Click **File** → **Open** and load `Assignment.s`
+2. Click **File** → **Open** and load `sokobanGame.s`
 
 3. Click **Compile and Load** → **Continue**
 
