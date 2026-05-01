@@ -1,4 +1,4 @@
-# Sokoban - RISC-V Assembly Implementation
+# Sokoban - RISC-V Low-Level Assembly Implementation
 
 A complete implementation of the classic Sokoban puzzle game in RISC-V assembly, featuring multiplayer competitive mode, procedurally generated boards, and a leaderboard system.
 
